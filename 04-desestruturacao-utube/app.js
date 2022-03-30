@@ -2,10 +2,10 @@
 const valores = [4, 1, 2, 3, 4, 5]
 
 const cliente = {
-    nome: 'Angelo Luz',
-    cpf: '014.035.510.11',
-    nascimento: '23/06/1986',
-    telefone: '981560346',
+    nome: 'Carlos M Lamego',
+    cpf: '999 999 999 99',
+    nascimento: '28011985',
+    telefone: '0000000',
     endereco: {
         rua: 'Avenida Javascript',
         cidade: 'Pelotas',
